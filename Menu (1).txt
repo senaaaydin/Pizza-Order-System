@@ -1,0 +1,13 @@
+* Please Choose a Pizza Base: 
+1: Classic      100 TL
+2: Margherita   110 TL
+3: Turk Pizza    120 TL 
+4: Dominos Pizza   130 TL
+* and sauce of your choice: 
+11: Olives      +5 TL
+12: Mushrooms   +10 TL
+13: GoatCheese  +15 TL
+14: Meat        +18 TL
+15: Onions      +5 TL
+16: Corn        +3 TL
+* Thank you!
